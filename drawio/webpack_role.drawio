@@ -1,0 +1,51 @@
+<mxfile host="65bd71144e">
+    <diagram id="6Ax3-1BI3WdB2bxMK8sn" name="ページ1">
+        <mxGraphModel dx="502" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="Node.js" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fontSize=14;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="60" width="180" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgcm9sZT0iaW1nIj48dGl0bGU+V2VicGFjazwvdGl0bGU+PHBhdGggZD0iTTIyLjE5ODcgMTguNDk4bC05Ljc2OTkgNS41MDIydi00LjI4NTVsNi4wODcyLTMuMzMzOCAzLjY4MjYgMi4xMTd6bS42NjgzLS42MDI2VjYuMzg4NGwtMy41NzUyIDIuMDU0NHY3LjM5NnptLTIxLjA2NTcuNjAyNmw5Ljc2OTkgNS41MDIydi00LjI4NTVMNS40ODQgMTYuMzgwOWwtMy42ODI2IDIuMTE3em0tLjY2ODMtLjYwMjZWNi4zODg0bDMuNTc1MSAyLjA1NDR2Ny4zOTZ6bS40MTgzLTEyLjI1MTVsMTAuMDE5OS01LjY0NHY0LjE0MzRMNS4xNTIgNy42NTg2bC0uMDQ4OS4wMjh6bTIwLjg5NzUgMGwtMTAuMDItNS42NDR2NC4xNDM0bDYuNDE5MiAzLjUxNTQuMDQ4OS4wMjggMy41NTE4LTIuMDQyN3ptLTEwLjg3NzUgMTMuMDk2bC02LjAwNTYtMy4yODczVjguOTM4NGw2LjAwNTQgMy40NTI1djYuMzQ5em0uODU3NSAwbDYuMDA1My0zLjI4NzNWOC45Mzg0bC02LjAwNTMgMy40NTI1ek01Ljk3MjQgOC4xODQ1bDYuMDI4Ny0zLjMwMTVMMTguMDMgOC4xODQ1bC02LjAyODggMy40NjY1eiIvPjwvc3ZnPg==;" parent="1" vertex="1">
+                    <mxGeometry x="223" y="96" width="44" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;" parent="1" source="3" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="import" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7" vertex="1" connectable="0">
+                    <mxGeometry x="0.1" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="src/index.tsx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="100" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&amp;lt;JavaScriptライブラリ&amp;gt;&lt;br&gt;react" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="200" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Webブラウザ" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;arcSize=9;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="60" width="180" height="217" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="index.js" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="90" width="160" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="src/index.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="120" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="react/index.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="190" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" target="10" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="180" y="175" as="sourcePoint"/>
+                        <mxPoint x="240" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="webpackによる&lt;br&gt;バンドル化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="140" width="90" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
